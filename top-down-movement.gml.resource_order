@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Items","order":14,"path":"folders/Items.yy",},
+    {"name":"Inventory","order":15,"path":"folders/Inventory.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"time","order":8,"path":"scripts/time/time.yy",},
+    {"name":"InventorySpaceSprite","order":1,"path":"sprites/InventorySpaceSprite/InventorySpaceSprite.yy",},
+    {"name":"BunnySprite","order":4,"path":"sprites/BunnySprite/BunnySprite.yy",},
+    {"name":"Enemy","order":5,"path":"objects/Enemy/Enemy.yy",},
+    {"name":"Bootstrapper","order":2,"path":"objects/Bootstrapper/Bootstrapper.yy",},
+    {"name":"EnemySprite","order":6,"path":"sprites/EnemySprite/EnemySprite.yy",},
+    {"name":"BerrySprite","order":1,"path":"sprites/BerrySprite/BerrySprite.yy",},
+    {"name":"math","order":7,"path":"scripts/math/math.yy",},
+    {"name":"iter","order":9,"path":"scripts/iter/iter.yy",},
+    {"name":"Bunny","order":3,"path":"objects/Bunny/Bunny.yy",},
+  ],
+}
