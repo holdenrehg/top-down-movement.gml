@@ -5,8 +5,15 @@ function set_animation_state(animation)
 	sprite_speed = details.speed;
 }
 
+function add_health(hp)
+{
+	hitpoints = min(hitpoints_cap, hitpoints + hp);
+}
+
 // ----------------------------------------------------------------------------
 
+hitpoints = 5;
+hitpoints_cap = 10;
 move_speed = 6;
 
 animations = {
